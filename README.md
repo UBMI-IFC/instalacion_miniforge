@@ -5,8 +5,8 @@ en Windows, GNU/Linux y MacOS.
 
 Puedes consultar la presentación en el siguiente *link*:
 
-[https://ubmi-ifc.github.io/Tutoriales-IFC/instalacion_miniforge](https://ubmi-ifc.github.io/Tutoriales-IFC/instalacion_miniforge)
-
+[https://ubmi-ifc.github.io/instalacion_miniforge](https://ubmi-ifc.github.io/instalacion_miniforge)
+ 
 Visita la página de tutoriales la [UBMI](https://ubmi-ifc.github.io/Tutoriales-IFC/)
 
 
