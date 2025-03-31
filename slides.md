@@ -263,15 +263,17 @@ Contáctanos:
 
 [ubmi@ifc.unam.mx](mailto:ubmi@ifc.unam.mx)
 
-# También puedes ver nuestra presentación de uso de `conda` con miniforge -> [AQUI](https://acpooth.github.io/guia_conda/1).
+## También puedes ver:
+- Nuestra presentación de uso de conda -> [AQUI](https://acpooth.github.io/guia_conda/1)
+- Nuestro tutorial escrito -> [AQUI](https://ubmi-ifc.github.io/Tutoriales-IFC/manuales/usuarios_ubmi/conda_ambientes_virtuales)
+
+
+<div style="text-align: center;">
+ <PoweredBySlidev mt-10 /> 
+</div>
 
 
 
-<!-- [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases) -->
-
-
-
-<PoweredBySlidev mt-10 />
 
 <footer class="absolute bottom-5 left-93% right-0 p-2"> <Link to="2"><div class="i-carbon:home" /></Link>  </footer>
 
