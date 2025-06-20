@@ -34,6 +34,13 @@ jobs:
       - name: Build
         run: nr build --base /${{github.event.repository.name}}/
 
+      - name: Build
+        run: nr build --out ./dist/guia_conda --base /${{github.event.repository.name}}/guia_conda guia_conda.md
+
+      - name: Build
+        run: nr build --out ./dist/instalacion_miniforge --base /${{github.event.repository.name}}/instalacion_miniforge instalacion_miniforge.md
+
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
